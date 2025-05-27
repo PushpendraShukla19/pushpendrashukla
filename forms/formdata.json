@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Alice Johnson",
+    "email": "alice.johnson@example.com",
+    "subject": "Project Inquiry",
+    "message": "I would like to know more about your project."
+  },
+  {
+    "name": "Bob Smith",
+    "email": "bob.smith@example.com",
+    "subject": "Support Request",
+    "message": "I need help with my account login."
+  },
+  {
+    "name": "Carol Lee",
+    "email": "carol.lee@example.com",
+    "subject": "Partnership Opportunity",
+    "message": "Let's collaborate on a joint venture."
+  },
+  {
+    "name": "David Kim",
+    "email": "david.kim@example.com",
+    "subject": "Bug Report",
+    "message": "Found a bug on the contact form submission."
+  },
+  {
+    "name": "Eva Green",
+    "email": "eva.green@example.com",
+    "subject": "Job Application",
+    "message": "I'm interested in the open developer role."
+  }
+]
